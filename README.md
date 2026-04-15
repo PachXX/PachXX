@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PachXX
+- 👋 Hi, I’m @Pashx
 - 👀 I’m interested in collabrating projects with ace developers 
 - 🌱 I’m currently learning how deep is the world for programming,especially python<MYsql><TaBleau>
 - 💞️ I’m looking to collaborate on projects realated data analysis, big data tools{machine Learning} data visualization
