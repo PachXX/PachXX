@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Pashx
-- 👀 I’m interested in collabrating projects with ace developers 
-- 🌱 I’m currently learning how deep is the world for programming,especially python<MYsql><TaBleau>
+- 👀 I’m interested in collabrating projects with ace developers
 - 💞️ I’m looking to collaborate on projects realated data analysis, big data tools{machine Learning} data visualization
 - 📫 How to reach me? just ping me in github or lets get in touch through mail. moideenshahil2@gmail.com
 - 😄 Pronouns: ...
