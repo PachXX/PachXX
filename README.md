@@ -1,6 +1,6 @@
 Hi, I’m Shahil.
 
-I build software and work on the operations behind it. That has taken me from hiring platforms and professional networks to procurement workflows and performance marketing.
+I build software and work on the operations behind it. That has taken me from hiring platforms and professional networks to procurement workflows and Industrail Automation.
 
 A lot of my work starts with a practical problem: information is scattered, a handoff takes too much effort, or someone has to keep checking things manually. I work through the process, build what’s needed and use AI where it helps.
 
