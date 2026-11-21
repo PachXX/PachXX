@@ -17,11 +17,7 @@ A professional network where people can share their work, find opportunities and
 **[Pashx Dashboard](https://www.pashx.com/)**  
 My work here includes the CRM and operations dashboard, outreach approvals and publishing integrations. Much of it is about making the steps between reviewing information and taking action work reliably.
 
-**[Talenlio](https://talenlio.ai/)**  
-As Head of Operations, I handled performance marketing campaigns, managed budgets and used AI to optimize campaigns. I also worked with product and engineering on process improvements.
 
-**[Talentlio HireOS](https://shahil-mohideen-ai-operations.moideenshahil2407072.chatgpt.site/#hiring)**  
-I built a hiring platform where startups and companies can match with and hire suitable talent.
 
 ## How I work
 
